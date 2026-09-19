@@ -7,7 +7,7 @@ Transforming high-volume transactional logs into decision-ready business intelli
 
 ### 💼 Technical Toolkit & Competencies
 
-- **Data Engineering & ETL Pipelines:**  
+- **Data & ETL Pipelines:**  
   ![ETL](https://img.shields.io/badge/Pipeline-ETL-005C8A?style=for-the-badge)
   ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
   ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
