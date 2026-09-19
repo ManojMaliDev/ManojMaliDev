@@ -1,10 +1,8 @@
-```markdown
+
 # Hi, I'm Manoj Mali 👋 💳 📊
 
 **Fintech Data Analyst | Financial Analytics, ETL Pipelines & Business Dashboards**  
 Transforming high-volume transactional logs into decision-ready business intelligence and risk telemetry. Experienced in engineering reliable end-to-end data pipelines—extracting raw multi-source telemetry, running rigorous data cleaning and validation, building relational stores in MySQL, writing complex analytical SQL (CTEs, Window Functions), and designing interactive Power BI dashboards with Star Schema modeling.
-
----
 
 ### 💼 Technical Toolkit & Competencies
 
@@ -32,7 +30,6 @@ Transforming high-volume transactional logs into decision-ready business intelli
   ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)  
   *Pivot Tables, Advanced Lookups (XLOOKUP / VLOOKUP), Nested Conditionals (SUMIFS / COUNTIFS)*
 
----
 
 ### ⚙️ End-to-End ETL & Analytics Pipeline
 
@@ -62,7 +59,6 @@ Transforming high-volume transactional logs into decision-ready business intelli
 
 ```
 
----
 
 ### 🚀 Flagship Project
 
@@ -82,10 +78,9 @@ Transforming high-volume transactional logs into decision-ready business intelli
   - **Analytical SQL:** Authored **24 advanced queries** using CTEs, ranking partitions, and rolling time-window calculations.
   - **Semantic Modeling & Dashboards:** Built a **Star Schema (1 Fact + 5 Dimensions)** with **11 core DAX KPIs** powering a 3-page interactive Power BI dashboard.
 
----
 
 ### 📬 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Manoj_Mali-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manoj-mali-367131319)
 [![Gmail](https://img.shields.io/badge/Email-manojmali3939@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:manojmali3939@gmail.com)
 
-```
+
