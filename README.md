@@ -6,7 +6,7 @@ Transforming high-volume transactional logs into decision-ready business intelli
 
 ### 💼 Technical Toolkit & Competencies
 
-- **Data Engineering & ETL Pipelines:**  
+- **Data E & ETL Pipelines:**  
   ![ETL](https://img.shields.io/badge/Pipeline-ETL-005C8A?style=for-the-badge)
   ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
   ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
@@ -71,7 +71,7 @@ Transforming high-volume transactional logs into decision-ready business intelli
   - Segregated an **SBI Card ~38% failure profile**, proving >75% of drops were customer balance constraints rather than gateway switch faults.
   - Formulated routing SLAs to save vulnerable conversions via dynamic failover switches.
 
-- **ETL, Data Cleaning & Engineering Highlights:**
+- **ETL, Data Cleaning &  Highlights:**
   - **ETL Ingestion:** Built an automated ingestion pipeline extracting 50,000 unstructured transaction records.
   - **Data Cleaning & Wrangling:** Imputed missing error codes, standardized transaction statuses, resolved inconsistent date-time stamps, and capped network latency anomalies using **Python (Pandas & NumPy)**.
   - **Relational Storage:** Architected clean schemas and loaded processed records into **MySQL** without data loss.
