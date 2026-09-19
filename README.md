@@ -72,5 +72,5 @@ Transforming high-volume transactional logs into decision-ready business intelli
 
 ### 📬 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Manoj_Mali-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manoj-mali-367131319)
-[![HackerRank](https://img.shields.io/badge/HackerRank-manojmali3939-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/manojmali3939)
+[![HackerRank](https://img.shields.io/badge/HackerRank-manojmali-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/manojmali3939)
 [![Gmail](https://img.shields.io/badge/Email-manojmali3939@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:manojmali3939@gmail.com)
