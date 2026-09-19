@@ -39,27 +39,13 @@ Transforming high-volume transactional logs into decision-ready business intelli
 ---
 
 ### ⚙️ End-to-End ETL & Analytics Pipeline
-┌───────────────────────────────┐
-│       1. EXTRACT (E)          │  Raw Multi-Source Payment Gateway Logs & Telemetry (CSV)
-└───────────────┬───────────────┘
-▼
-┌───────────────────────────────┐
-│     2. DATA CLEANING &        │  • Handling null error codes & schema mismatches
-│       TRANSFORM (T)           │  • Timestamp parsing, peak-window flagging & outlier capping
-│       (Python / Pandas)       │  • Currency standardizations & categorical normalization
-└───────────────┬───────────────┘
-▼
-┌───────────────────────────────┐
-│        3. LOAD (L)            │  Staging & normalized tables loaded into Relational MySQL
-│          (MySQL)              │  Executing 24 Analytical Queries (CTEs, Window Functions)
-└───────────────┬───────────────┘
-▼
-┌───────────────────────────────┐
-│     4. DATA MODELING &        │  Optimized Star Schema (1 Fact + 5 Dimensions)
-│        BUSINESS BI            │  11 Production DAX KPIs & Root-Cause Diagnostics
-│      (Power BI / Excel)       │  Executive Dashboards for Platform SLA & Recovery
-└───────────────────────────────┘
 
+| Stage | Process | Operations & Tools |
+| :--- | :--- | :--- |
+| **1. Extract (E)** | **Raw Telemetry Ingestion** | Ingesting multi-source payment gateway logs, timestamps, and status codes (CSV). |
+| **2. Clean & Transform (T)** | **Data Wrangling (Python / Pandas)** | Imputing null error codes, capping latency outliers, parsing peak windows, and standardizing schemas. |
+| **3. Load (L)** | **Relational Store (MySQL)** | Normalizing staging tables into structured schemas; executing **24 analytical SQL queries** (CTEs & Window Functions). |
+| **4. Serve & Analyze** | **Business BI (Power BI / Excel)** | Modeling an optimized **Star Schema (1 Fact + 5 Dimensions)** with **11 DAX KPIs** for executive decision-making. |
 
 ---
 
@@ -80,7 +66,7 @@ Transforming high-volume transactional logs into decision-ready business intelli
   - **Relational Storage:** Architected clean schemas and loaded processed records into **MySQL** without data loss.
   - **Analytical SQL:** Authored **24 advanced queries** using CTEs, ranking partitions, and rolling time-window calculations.
   - **Semantic Modeling & Dashboards:** Built a **Star Schema (1 Fact + 5 Dimensions)** with **11 core DAX KPIs** powering a 3-page interactive Power BI dashboard.
-  - **Version Control & CI/CD:** Maintained end-to-end version control using **Git & GitHub**, organizing production deliverables into modular directories (BRD, SQL, Python, PBIS).
+  - **Version Control & Repository Standards:** Maintained end-to-end version tracking via **Git & GitHub** across modular directories (BRD, SQL, Python, Power BI).
 
 ---
 
