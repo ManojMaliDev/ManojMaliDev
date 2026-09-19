@@ -7,7 +7,7 @@ Transforming high-volume transactional logs into decision-ready business intelli
 
 ### 💼 Technical Toolkit & Competencies
 
-- **Data & ETL Pipelines:**  
+- **Data Engineering & ETL Pipelines:**  
   ![ETL](https://img.shields.io/badge/Pipeline-ETL-005C8A?style=for-the-badge)
   ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
   ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
@@ -72,4 +72,5 @@ Transforming high-volume transactional logs into decision-ready business intelli
 
 ### 📬 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Manoj_Mali-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manoj-mali-367131319)
+[![HackerRank](https://img.shields.io/badge/HackerRank-manojmali3939-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/manojmali3939)
 [![Gmail](https://img.shields.io/badge/Email-manojmali3939@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:manojmali3939@gmail.com)
